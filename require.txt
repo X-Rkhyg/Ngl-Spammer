@@ -1,0 +1,5 @@
+requests
+pyfiglet
+colorama
+git+https://github.com/MHProDev/PyRoxy.git
+pytz
